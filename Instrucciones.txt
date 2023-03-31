@@ -2,4 +2,8 @@ git add .
 git push origin 
 git commit -m "......"
 git push origin
-gis status
+git status
+
+
+Instrucciones de la nube (GitHub) a remoto local: 
+git pull 
